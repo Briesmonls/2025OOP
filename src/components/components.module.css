@@ -1,0 +1,36 @@
+.body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    line-height: 150%;
+        
+    scroll-behavior: smooth;
+
+    background-color: white;
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.input {
+    width: 250px;
+    height: 25px;
+
+    border: 2px solid black;
+    background-color: none;
+    color: black;
+
+    display: flex;
+}
+
+.ColorBox {
+    width: 500px;
+    height: 500px;
+
+    border: 5px solid black;
+
+    display: block;
+    margin: auto;
+
+}
